@@ -38,7 +38,7 @@ class MyLinkedList:
         Append a node of value val to the last element of the linked list.
         """
           if self.head is None:
-            self.head = val
+             self.head = val
         else:
             tail = self.head 
             while True:
