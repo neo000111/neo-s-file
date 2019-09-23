@@ -17,7 +17,15 @@ class MyLinkedList:
         """
         Get the value of the index-th node in the linked list. If the index is invalid, return -1.
         """
-       
+        if index < 0:
+            return -1
+        cur = self.head
+        for i in range(index):
+            if cur:
+                cur = cur.next
+            else:
+                break
+        return head.val if head else -1
          
         
         
