@@ -4,4 +4,4 @@
 # 課堂筆記
 - week1
 - week2:[linked-List]()
-- week5:[Quick Sort]()
+- week5:[Quick Sort](https://github.com/neo000111/neo-s-file/blob/master/HW/quicksort.ipynb)
