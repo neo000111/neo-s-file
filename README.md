@@ -3,5 +3,5 @@
 
 # 課堂筆記
 - week1
-- week2:
-- week5:
+- week2:[linked-List]()
+- week5:[Quick Sort]()
