@@ -5,3 +5,4 @@
 - week1
 - week2:[linked-List](https://github.com/neo000111/neo-s-file/tree/master/week2)
 - week5:[Quick Sort(HW)](https://github.com/neo000111/neo-s-file/blob/master/HW/quicksort.ipynb)
+- week6:[Heap Sort(堆積排序法)]
