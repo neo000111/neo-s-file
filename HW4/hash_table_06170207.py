@@ -34,7 +34,7 @@ class MyHashSet:
             if c is None:
                 self.data[a] = ListNode(n)
             else:
-                while cur:
+                while c:
                     if c.val == n:
                         return
                     if c.next is None:
