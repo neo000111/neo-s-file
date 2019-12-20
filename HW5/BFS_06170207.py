@@ -33,8 +33,7 @@ class Graph:
         return visisted 
     
     def DFS(self, s):
-        stack = [s]  
-        visited = []
+        stack, visited = [s], [] 
         while len(stack) > 0: 
             u = stack.pop(-1) 
             if u not in visited: 
